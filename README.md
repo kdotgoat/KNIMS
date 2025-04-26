@@ -71,7 +71,7 @@ NB:This is just a working prototype of the system.
 •	Secure image storage if applicant photos are involved.
 
 
-10. Offline Availability
+9. Offline  Availability
     
 •	The entire system is offline, meaning it does not rely on an internet connection for operations.
 •	Only SMS sending requires minimal network access when needed.
